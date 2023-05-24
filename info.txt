@@ -1,2 +1,6 @@
 This is my first repository.
+<<<<<<< HEAD
 My name is Fon.
+=======
+Today is Wednesday.
+>>>>>>> f90e4386aad51609981148cf1ec91f53686ee5b5
